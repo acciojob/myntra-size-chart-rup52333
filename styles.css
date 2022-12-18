@@ -1,2 +1,33 @@
 
 /* Your CSS Code here. */
+table{
+background-color: black;
+
+
+
+
+}
+th{
+    color: white;
+    background: #c94541 ;
+  }
+table tr#row1{
+background-color:  #edbab8 ;
+color: white;
+
+
+}
+table tr#row2{
+background-color:   #e7dada;
+color: white;
+
+
+}
+table tr#row3{
+background-color:   #aba8a8 ;
+color: white;
+
+
+}
+
+
